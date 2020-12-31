@@ -5,12 +5,16 @@ fields:
 - type: text
   name: title
   label: title
+  description: blog post title
 - type: text
   name: author
   label: author
+  description: author name
 - type: datetime
   name: date
   label: date
+  description: date of post
 - type: file
   name: hero_image
   label: hero_image
+  description: image that appears in your blog
