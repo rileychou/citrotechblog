@@ -18,3 +18,5 @@ fields:
   name: hero_image
   label: hero_image
   description: image for blog
+pages:
+- posts/test.md
