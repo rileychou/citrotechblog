@@ -9,7 +9,7 @@ export default function Header(props) {
         aria-label="main navigation"
       >
         <Link href="/">
-          <h1>{props.siteTitle}</h1>
+          <h1>Citro Tech</h1>
         </Link>
         <div>
           <Link href={`${typeof window !== "undefined" &&
