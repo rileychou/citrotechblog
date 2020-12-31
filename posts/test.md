@@ -9,4 +9,4 @@ lorem ipsum
 
 lorem ipsum
 
-citro tech yay
+citro tech yay![](public/static/citro_logo_white.png)
