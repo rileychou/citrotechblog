@@ -17,4 +17,4 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
-  description: image for blog
+  description: image that appears in preview
