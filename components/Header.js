@@ -15,10 +15,10 @@ export default function Header(props) {
           <h3><a href="https://rileychou.github.io/CitroTechWebsite/">Back to main site</a></h3>
         </div>
         <div>
-          <h5>
+          <h6>
               Starter Repo <a href="https://github.com/kendallstrautman/brevifolia-next-forestry" target="_blank">@kendallstrautman</a>.
               Powered by <a href="https://forestry.io/" target="_blank">forestry.io</a>.
-          </h5>
+          </h6>
           <Link href={`${typeof window !== "undefined" &&
           window.location.pathname == "/info" ?
           "/" : "/info"}`}>
