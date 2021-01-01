@@ -18,3 +18,5 @@ fields:
   name: hero_image
   label: hero_image
   description: image that appears in preview
+pages:
+- posts/test.md
