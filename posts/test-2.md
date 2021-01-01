@@ -1,7 +1,7 @@
 ---
 title: test-2
 author: Riley Chou
-date: ! '''2021-01-01T09:00:00.000Z'''
+date: 2021-01-01T01:00:00.000Z
 hero_image: "../static/julia-joppien.jpg"
 
 ---
