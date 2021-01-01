@@ -16,8 +16,7 @@ export default function Header(props) {
         </div>
         <div>
           <h3>
-              Starter Repo <a href="https://github.com/kendallstrautman/brevifolia-next-forestry" target="_blank">@kendallstrautman</a>.
-              Powered by <a href="https://forestry.io/" target="_blank">forestry.io</a>.
+              © Citrotech 2021.
           </h3>
           <Link href={`${typeof window !== "undefined" &&
           window.location.pathname == "/info" ?
