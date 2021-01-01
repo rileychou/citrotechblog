@@ -29,9 +29,6 @@ export default function Header(props) {
       </nav>
       <style jsx>
         {`
-          h1 {
-            margin-bottom: 0;
-          }
           h1:hover {
             cursor: pointer;
           }
