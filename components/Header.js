@@ -8,15 +8,11 @@ export default function Header(props) {
         role="navigation"
         aria-label="main navigation"
       >
-        <div>
+        
           <Link href="/">
             <h1>Citro Tech</h1>
           </Link>
           <h3>Official Blog</h3>
-        </div>
-        <div classname="links">
-          <h3><Link href="https://rileychou.github.io/CitroTechWebsite/" target="_blank">Back to main page</Link></h3>
-        </div>
         <div>
           <Link href={`${typeof window !== "undefined" &&
           window.location.pathname == "/info" ?
