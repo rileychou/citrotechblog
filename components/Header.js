@@ -8,9 +8,15 @@ export default function Header(props) {
         role="navigation"
         aria-label="main navigation"
       >
-        <Link href="/">
-          <h1>Citro Tech</h1>
-        </Link>
+        <div>
+          <Link href="/">
+            <h1>Citro Tech</h1>
+          </Link>
+          <h3>Official Blog</h3>
+        </div>
+        <div classname="links">
+          <h3><a href="https://rileychou.github.io/CitroTechWebsite/" target="_blank">Back to main page</a></h3>
+        </div>
         <div>
           <Link href={`${typeof window !== "undefined" &&
           window.location.pathname == "/info" ?
@@ -28,6 +34,16 @@ export default function Header(props) {
           }
           h1:hover {
             cursor: pointer;
+          }
+          .links {
+            display: flex;
+            flex-direction: row;
+            margin-top: 15px;
+          }
+          .links a {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
           }
           nav {
             padding: 1.5rem 1.25rem;
