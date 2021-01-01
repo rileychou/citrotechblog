@@ -10,10 +10,9 @@ export default function Header(props) {
       >
         <div>
           <Link href="/">
-            <h1>Citro Tech</h1>
+            <h1>Citro Tech Blog</h1>
           </Link>
-          <h2>Official Blog</h2>
-          <h3>Back to main site</h3>
+          <h3><a href="https://rileychou.github.io/CitroTechWebsite/">Back to main site</a></h3>
         </div>
         <div>
           <Link href={`${typeof window !== "undefined" &&
