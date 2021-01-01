@@ -12,13 +12,13 @@ export default function Header(props) {
           <Link href="/">
             <h1>Citro Tech Blog</h1>
           </Link>
-          <h3><a href="https://rileychou.github.io/CitroTechWebsite/">Back to main site</a></h3>
+          <h4><a href="https://rileychou.github.io/CitroTechWebsite/">Back to main site</a></h4>
         </div>
         <div>
-          <h6>
+          <h3>
               Starter Repo <a href="https://github.com/kendallstrautman/brevifolia-next-forestry" target="_blank">@kendallstrautman</a>.
               Powered by <a href="https://forestry.io/" target="_blank">forestry.io</a>.
-          </h6>
+          </h3>
           <Link href={`${typeof window !== "undefined" &&
           window.location.pathname == "/info" ?
           "/" : "/info"}`}>
