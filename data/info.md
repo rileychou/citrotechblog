@@ -1,7 +1,7 @@
 ---
 title: info page
-background_color: '#AEC4BE'
+background_color: '#FAECB2'
 ---
-## This blog was created using [NextJS](https://nextjs.org/) 
+## Starter Repository by [@kendallstrautman](https://github.com/kendallstrautman/brevifolia-next-forestry)
 
-## To get started, read the NextJS [docs](https://nextjs.org/docs) or checkout the [repository](https://github.com/kendallstrautman/brevifolia-nextjs).
+## Powered by [Forestry.io](https://forestry.io/)
