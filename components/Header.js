@@ -12,7 +12,8 @@ export default function Header(props) {
           <Link href="/">
             <h1>Citro Tech</h1>
           </Link>
-          <h3>Official Blog</h3>
+          <h2>Official Blog</h2>
+          <h3>Back to main site</h3>
         </div>
         <div>
           <Link href={`${typeof window !== "undefined" &&
