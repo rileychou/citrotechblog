@@ -12,7 +12,7 @@ export default function Header(props) {
           <Link href="/">
             <h1>Citro Tech Blog</h1>
           </Link>
-          <h4><a href="https://rileychou.github.io/CitroTechWebsite/">Back to main site</a></h4>
+          <h4><a href="https://citrotech.netlify.app/">Back to main site</a></h4>
         </div>
         <div>
           <h3>
