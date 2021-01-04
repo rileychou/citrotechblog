@@ -15,7 +15,7 @@ fields:
   label: date
   description: date of post
   config:
-    export_format: YYYY-MM-DDTh:mm:ss A Z
+    export_format: ''
 - type: file
   name: hero_image
   label: hero_image
