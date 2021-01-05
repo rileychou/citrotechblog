@@ -21,4 +21,5 @@ fields:
   label: hero_image
   description: image that appears in preview
 pages:
+- posts/social-media-algorithms.md
 - posts/test.md
