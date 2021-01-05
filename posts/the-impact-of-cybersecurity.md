@@ -1,0 +1,16 @@
+---
+title: The Impact of Cybersecurity
+author: Angie Jin
+date: 2021-01-05T04:00:00.000Z
+hero_image: "../static/cybersecurity.jpg"
+
+---
+As our society becomes increasingly reliant on technological advancements, cybersecurity becomes as important as ever. Cybersecurity is the act of securing networks, systems, and information from malicious computerized attacks. The government and many businesses face threats from hackers who intentionally try to steal information. Therefore, they put great investments into a strong cybersecurity system in order to ensure the safety of their business and their client’s data. Individuals have also faced issues such as identity theft, where hackers rob their data and use it for financial gain. These conflicts have only been rising as our world foresees into a digital future filled with growing technology. Cybercriminals are getting more industrialized at what they target and how they apply certain strategies for assault on various security frameworks. This is why our online world is becoming increasingly dependent on security groups to protect against cybercrimes. Without it, our society would collapse.
+
+Many individuals' well-being is put at risk because of blackmail, identity theft, ransom money, and many other major privacy concerns. Malware is one of the most common issues today. Malware exploits any programs through harmful software to steal data from victims. Some common ones are click-on emails or suspicious links that lead you to potential threats, like viruses and ransomware. Studies show that “[hackers attack a computer in the US every 39 seconds](https://www.securitymagazine.com/articles/87787-hackers-attack-every-39-seconds).” This number can be scary, as hackers become more evolved. However, these dangers are minimized through cybersecurity. Passwords are the first layer of defense. Because many users fail to create a strong passcode for the information that they stored online, other layers of security come into play. By encompassing securities for data, identity, cloud, infrastructure, and many more layers of programs, cybersecurity achieves to provide better defense against malicious online acts and criminals. The strong adaptability of cybersecurity teams and their creation of fireballs also ensures protections for users. They identify breaches and provide quick solutions to cyber-attacks. As technology advances by the minute, artificial intelligence begins to be utilized in network safety by fighting against a wide assortment of pernicious cybercrimes. Security organizations are preparing AI to anticipate data breaches and alert danger. With proper securing assets, cybersecurity can help limit the threats imposed on the virtual world that makes up our society.
+
+Today, cybersecurity specialists strive to analyze and prevent data breaches and system attacks. To ensure safety and minimize the rise of cybercrimes, cybersecurity is used to secure against attacks. Its positive impact on the technology-reliant society has helped protect the data and systems of the IT world.
+
+Work Cited
+
+“Why Cybersecurity Is Important Now More Than Ever.” _Intellectual Point_, 31 Jan. 2020, www.intellectualpoint.com/5-reasons-why-cybersecurity-is-important-now-more-than-ever/.
