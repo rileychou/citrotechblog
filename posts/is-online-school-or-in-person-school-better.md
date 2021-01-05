@@ -1,7 +1,7 @@
 ---
 title: Is online school or in-person school better?
 author: Joyce Tong
-date: 2021-01-05T04:00:00.000Z
+date: '2021-01-05T04:00:00.000Z'
 hero_image: "../static/onlineschool.jpg"
 
 ---
