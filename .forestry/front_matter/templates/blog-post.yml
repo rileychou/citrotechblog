@@ -21,5 +21,6 @@ fields:
   label: hero_image
   description: image that appears in preview
 pages:
+- posts/is-online-school-or-in-person-school-better.md
 - posts/social-media-algorithms.md
 - posts/test.md
