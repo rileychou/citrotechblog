@@ -9,9 +9,7 @@ const Index = props => {
       siteTitle={props.title}
       siteDescription={props.description}
     >
-      <head>
-        <link rel="icon" href="/static/citroicon.png" type="image/png">
-      </head>
+      
       <section>
         <BlogList allBlogs={props.allBlogs} />
       </section>
