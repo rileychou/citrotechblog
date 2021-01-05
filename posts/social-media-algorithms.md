@@ -1,7 +1,7 @@
 ---
 title: Social Media Algorithms
 author: Nicolette Pin
-date: 2021-01-05T04:00:00.000Z
+date: '2021-01-05T04:00:00.000Z'
 hero_image: "../static/smalgs.jpeg"
 
 ---
