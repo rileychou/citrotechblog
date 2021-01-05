@@ -1,7 +1,7 @@
 ---
 title: test
 author: Riley Chou
-date: 2021-01-06T00:00:00Z
+date: 2021-01-05T04:00:00.000Z
 hero_image: "../static/citro_logo_white.png"
 
 ---
