@@ -21,6 +21,7 @@ fields:
   label: hero_image
   description: image that appears in preview
 pages:
+- posts/how-to-study-for-ap-exams.md
 - posts/is-online-school-or-in-person-school-better.md
 - posts/social-media-algorithms.md
 - posts/the-impact-of-cybersecurity.md
