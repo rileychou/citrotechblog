@@ -2,7 +2,7 @@
 title: How To Study For AP Exams
 author: Damian Yang, Angie Jin, Nicolette Pin, Sejal Bilwar, Sharana Sabesan, Jane
   Wu
-date: 2021-05-27T02:00:00.000Z
+date: '2021-05-27T02:00:00.000Z'
 hero_image: "../static/depositphotos_11201868-stock-photo-student-focused-on-his-homework.jpeg"
 
 ---
